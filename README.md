@@ -17,13 +17,13 @@ This project was created to promote the tourism potential of Uttarakhand and pro
 ## 🔹Snapshots
 
 ### 🏔️ Adventure Page
-![Adventure Page](./snapShots/Adventure_1.png)
+![Adventure Page](./Snapshots/Adventure_1.png)
 
 ### 📩 Contact Page
-![Contact Page](./snapShots/Contact_1.png)
+![Contact Page](./Snapshots/Contact_1.png)
 
 ### 🌿 Wildlife Page
-![Wildlife Page](./snapShots/Wildlife_1.png)
+![Wildlife Page](./Snapshots/Wildlife_1.png)
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
