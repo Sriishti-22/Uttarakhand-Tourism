@@ -17,52 +17,74 @@ This project was created to promote the tourism potential of Uttarakhand and pro
 ## 🔹Snapshots
 
 ### 🏠 Landing Page
-<p align="center">
-  <img src="./Snapshots/Landing_1.png" width="45%"/>
-  <img src="./Snapshots/Landing_2.png" width="45%"/>
-</p>
+**1.**  
+![Landing Page 1](./Snapshots/Landing_1.png)  
+
+**2.**  
+![Landing Page 2](./Snapshots/Landing_2.png)  
+
+---
 
 ### ℹ️ About Page
-<p align="center">
-  <img src="./Snapshots/About_1.png" width="45%"/>
-  <img src="./Snapshots/About_2.png" width="45%"/>
-</p>
+**1.**  
+![About Page 1](./Snapshots/About_1.png)  
+
+**2.**  
+![About Page 2](./Snapshots/About_2.png)  
+
+---
 
 ### 🗺️ Destinations Page
-<p align="center">
-  <img src="./Snapshots/Destinations_1.png" width="45%"/>
-  <img src="./Snapshots/Destinations_2.png" width="45%"/>
-</p>
+**1.**  
+![Destinations Page 1](./Snapshots/Destinations_1.png)  
+
+**2.**  
+![Destinations Page 2](./Snapshots/Destinations_2.png)  
+
+---
 
 ### 🏔️ Adventure Page
-<p align="center">
-  <img src="./Snapshots/Adventure_1.png" width="45%"/>
-  <img src="./Snapshots/Adventure_2.png" width="45%"/>
-</p>
+**1.**  
+![Adventure Page 1](./Snapshots/Adventure_1.png)  
+
+**2.**  
+![Adventure Page 2](./Snapshots/Adventure_2.png)  
+
+---
 
 ### 🕉️ Spiritual Page
-<p align="center">
-  <img src="./Snapshots/Spiritual_1.png" width="45%"/>
-  <img src="./Snapshots/Spiritual_2.png" width="45%"/>
-</p>
+**1.**  
+![Spiritual Page 1](./Snapshots/Spiritual_1.png)  
+
+**2.**  
+![Spiritual Page 2](./Snapshots/Spritual_2.png)  
+
+---
 
 ### 🌿 Wildlife Page
-<p align="center">
-  <img src="./Snapshots/Wildlife_1.png" width="45%"/>
-  <img src="./Snapshots/Wildlife_2.png" width="45%"/>
-</p>
+**1.**  
+![Wildlife Page 1](./Snapshots/Wildlife_1.png)  
+
+**2.**  
+![Wildlife Page 2](./Snapshots/Wildlife_2.png)  
+
+---
 
 ### 💡 Travel Tips Page
-<p align="center">
-  <img src="./Snapshots/TravelTips_1.png" width="45%"/>
-  <img src="./Snapshots/TravelTips_2.png" width="45%"/>
-</p>
+**1.**  
+![Travel Tips Page 1](./Snapshots/Travel_Tips_1.png)  
+
+**2.**  
+![Travel Tips Page 2](./Snapshots/Travel_Tips_2.png)  
+
+---
 
 ### 📩 Contact Page
-<p align="center">
-  <img src="./Snapshots/Contact_1.png" width="45%"/>
-  <img src="./Snapshots/Contact_2.png" width="45%"/>
-</p>
+**1.**  
+![Contact Page 1](./Snapshots/Contact_1.png)  
+
+**2.**  
+![Contact Page 2](./Snapshots/Contact_2.png) 
 
 ## 🚀 How to Run
 1. Clone this repository  
