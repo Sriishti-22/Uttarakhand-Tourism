@@ -36,10 +36,10 @@ This project was created to promote the tourism potential of Uttarakhand and pro
 
 ### 🗺️ Destinations Page
 **1.**  
-![Destinations Page 1](./Snapshots/Destinations_1.png)  
+![Destinations Page 1](./Snapshots/Destination_1.png)  
 
 **2.**  
-![Destinations Page 2](./Snapshots/Destinations_2.png)  
+![Destinations Page 2](./Snapshots/Destination_2.png)  
 
 ---
 
