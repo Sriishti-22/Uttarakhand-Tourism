@@ -14,6 +14,16 @@ A responsive and interactive tourism website showcasing the natural beauty, cult
 ## 🔹 Purpose
 This project was created to promote the tourism potential of Uttarakhand and provide travelers with a user-friendly platform to explore its attractions.
 
+## 🔹Snapshots
+
+### 🏔️ Adventure Page
+![Adventure Page](./snapShots/Adventure_1.png)
+
+### 📩 Contact Page
+![Contact Page](./snapShots/Contact_1.png)
+
+### 🌿 Wildlife Page
+![Wildlife Page](./snapShots/Wildlife_1.png)
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
