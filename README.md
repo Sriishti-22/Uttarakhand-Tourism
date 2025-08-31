@@ -16,14 +16,54 @@ This project was created to promote the tourism potential of Uttarakhand and pro
 
 ## 🔹Snapshots
 
-### 🏔️ Adventure Page
-![Adventure Page](./Snapshots/Adventure_1.png)
+### 🏠 Landing Page
+<p align="center">
+  <img src="./Snapshots/Landing_1.png" width="45%"/>
+  <img src="./Snapshots/Landing_2.png" width="45%"/>
+</p>
 
-### 📩 Contact Page
-![Contact Page](./Snapshots/Contact_1.png)
+### ℹ️ About Page
+<p align="center">
+  <img src="./Snapshots/About_1.png" width="45%"/>
+  <img src="./Snapshots/About_2.png" width="45%"/>
+</p>
+
+### 🗺️ Destinations Page
+<p align="center">
+  <img src="./Snapshots/Destinations_1.png" width="45%"/>
+  <img src="./Snapshots/Destinations_2.png" width="45%"/>
+</p>
+
+### 🏔️ Adventure Page
+<p align="center">
+  <img src="./Snapshots/Adventure_1.png" width="45%"/>
+  <img src="./Snapshots/Adventure_2.png" width="45%"/>
+</p>
+
+### 🕉️ Spiritual Page
+<p align="center">
+  <img src="./Snapshots/Spiritual_1.png" width="45%"/>
+  <img src="./Snapshots/Spiritual_2.png" width="45%"/>
+</p>
 
 ### 🌿 Wildlife Page
-![Wildlife Page](./Snapshots/Wildlife_1.png)
+<p align="center">
+  <img src="./Snapshots/Wildlife_1.png" width="45%"/>
+  <img src="./Snapshots/Wildlife_2.png" width="45%"/>
+</p>
+
+### 💡 Travel Tips Page
+<p align="center">
+  <img src="./Snapshots/TravelTips_1.png" width="45%"/>
+  <img src="./Snapshots/TravelTips_2.png" width="45%"/>
+</p>
+
+### 📩 Contact Page
+<p align="center">
+  <img src="./Snapshots/Contact_1.png" width="45%"/>
+  <img src="./Snapshots/Contact_2.png" width="45%"/>
+</p>
+
 ## 🚀 How to Run
 1. Clone this repository  
    ```bash
