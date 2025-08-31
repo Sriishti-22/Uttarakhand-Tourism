@@ -18,10 +18,10 @@ This project was created to promote the tourism potential of Uttarakhand and pro
 
 ### 🏠 Landing Page
 **1.**  
-![Landing Page 1](./Snapshots/Landing_1.png)  
+![Landing Page 1](./Snapshots/Landing_Page_1.png)  
 
 **2.**  
-![Landing Page 2](./Snapshots/Landing_2.png)  
+![Landing Page 2](./Snapshots/Landing_Page_2.png)  
 
 ---
 
@@ -57,7 +57,7 @@ This project was created to promote the tourism potential of Uttarakhand and pro
 ![Spiritual Page 1](./Snapshots/Spiritual_1.png)  
 
 **2.**  
-![Spiritual Page 2](./Snapshots/Spritual_2.png)  
+![Spiritual Page 2](./Snapshots/Spiritual_2.png)  
 
 ---
 
